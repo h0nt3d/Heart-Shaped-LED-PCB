@@ -14,3 +14,4 @@ I decided to embark on this project was to get started in PCB design and solderi
 - One 20mm Coin 3V Battery
 
 # Circuit Design
+![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/schematic-1.png?raw=true)
