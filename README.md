@@ -14,7 +14,7 @@ I decided to embark on this project as a way to get started in PCB design and so
 - One 20mm Coin 3V Battery
 
 # Circuit Design
-
+![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/schematic-1.png?raw=true)
 Fig 1.1 - Schematic of the Circuit
 
 Operation:
