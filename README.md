@@ -12,3 +12,5 @@ I decided to embark on this project was to get started in PCB design and solderi
 - Three 10.5 kΩ Resistors (Pull Down Resistors)
 - One Battery Holder (BS-7)
 - One 20mm Coin 3V Battery
+
+# Circuit Design
