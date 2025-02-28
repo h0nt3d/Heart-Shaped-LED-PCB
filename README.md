@@ -2,7 +2,7 @@
 A PCB that has LEDs shaped in the form of a heart and uses an 8 bit shift register SN74HC595DR to make patterns on the LEDs
 
 # Introduction
-I decided to embark on this project was to get started in PCB design and soldering. I had a Freenove kit lying around with a shift register and some LEDs and I thought making a pattern with them would be very cool. I also thought it would be a good present for Valentine's day.
+I decided to embark on this project as a way to get started in PCB design and soldering. I had a Freenove kit lying around with a shift register and some LEDs and I thought making a pattern with them would be very cool. I also thought it would be a good present for Valentine's day.
 
 # Component and Materials
 - SN74HC595NSR - 8 bit shift register
