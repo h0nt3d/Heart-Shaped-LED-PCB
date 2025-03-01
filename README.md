@@ -35,7 +35,7 @@ Behaviour of components:
 Fig 1.0 - Footprint View View of PCB
 
 ![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/3D.png?raw=true)
-Fig 1.1 - 3D View of PCB
+Fig 1.1 - 3D View of PCB (KiCAD 3D Viewer)
 
 
 # Observations & Improvements
