@@ -23,3 +23,9 @@ Operation:
 - To load a bit, hold Serial and SRCLK together.
 - To display a shift of the loaded bit press RCLK
 - To shift the bit again without another load in, Press SRCLK then press RCLK.
+
+Behaviour of components:
+- Active low Clear of reigister is connected to ground to prevent reset.
+- 200 Ω Limiting resistor used to protect LEDs from excessive current flow. (Not ideal will explain in Conclusion)
+- 10.5 kΩ connected to a push button each acting as pull down resistors to prevent impedance state.
+
