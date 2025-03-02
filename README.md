@@ -51,4 +51,4 @@ Improvement: Use a larger resistor or THT resistor to increase ease of soldering
 
 # Future Enhancements
 - Implementation of a binary counter using a 555 timer.
-- Implementation with a microcontroller e.g. Arduino, Freenove Board
+- Implementation with a microcontroller e.g. Arduino, Freenove Board.
