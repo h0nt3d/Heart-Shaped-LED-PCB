@@ -15,6 +15,7 @@ I decided to embark on this project as a way to get started in PCB design and so
 
 # Circuit Design
 ![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/schematic-1.png?raw=true)
+
 Fig 0.0 - Schematic of the Circuit
 
 Operation:
@@ -32,9 +33,11 @@ Behaviour of components:
 
 # Footprint View & 3D View
 ![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/footprintEditor.png?raw=true)
+
 Fig 1.0 - Footprint View View of PCB
 
 ![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/3D.png?raw=true)
+
 Fig 1.1 - 3D View of PCB (KiCAD 3D Viewer)
 
 
