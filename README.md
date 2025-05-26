@@ -46,9 +46,6 @@ Fig 1.1 - 3D View of PCB (KiCAD 3D Viewer)
 Improvement: Use a larger resistor or THT resistor to increase ease of soldering.
 - The use of one 200 Ω resistor lead to uneven lighting between LEDs. Improvement: Connect each LED to its own resistor.
 
-# Conclusion
-- From this mini project, I learned some of the pros and cons of using SMD components and THT components. It also gave me more experience in handling a soldering iron and taught me the process of using gerber files to order PCBs from a manufacturer.
-
 # Future Enhancements
 - Implementation of a binary counter using a 555 timer.
 - Implementation with a microcontroller e.g. Arduino, Freenove Board.
