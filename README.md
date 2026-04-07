@@ -36,13 +36,3 @@ Fig 1.0 - Footprint View View of PCB
 ![alt text](https://github.com/h0nt3d/Heart-Shaped-LED-PCB/blob/main/images/3D.png?raw=true)
 
 Fig 1.1 - 3D View of PCB (KiCAD 3D Viewer)
-
-
-# Observations & Improvements
-- Signs of Impedance are present indicating a faulty connection of pull down resistors.
-Improvement: Use a larger resistor or THT resistor to increase ease of soldering.
-- The use of one 200 Ω resistor lead to uneven lighting between LEDs. Improvement: Connect each LED to its own resistor.
-
-# Future Enhancements
-- Implementation of a binary counter using a 555 timer.
-- Implementation with a microcontroller e.g. Arduino, Freenove Board.
